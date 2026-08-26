@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormControlInvoke", "FormControlInvoke.csproj", "{DE905B44-F6BC-4808-ACEA-3257B3103E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE905B44-F6BC-4808-ACEA-3257B3103E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE905B44-F6BC-4808-ACEA-3257B3103E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE905B44-F6BC-4808-ACEA-3257B3103E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE905B44-F6BC-4808-ACEA-3257B3103E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7792A124-FD94-4C53-9925-DE2C4340DE3A}
+	EndGlobalSection
+EndGlobal
