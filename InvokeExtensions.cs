@@ -4,7 +4,7 @@ namespace FormControlInvoke
 {
     public static class InvokeExtensions
     {
-        public static void InvokeControlMethod(this System.Windows.Forms.Control control, Action method)
+        public static void InvokeControlAction(this System.Windows.Forms.Control control, Action method)
         {
             if (method == null)
             {
