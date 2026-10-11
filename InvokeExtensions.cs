@@ -1,4 +1,4 @@
-﻿using System;
+yusing System;
 
 namespace FormControlInvoke
 {
@@ -21,7 +21,7 @@ namespace FormControlInvoke
                         method();
                         break;
                     default:
-                        throw new ArgumentNullException(nameof(control), "Invoke Required parent object not set to boolean value");
+                        throw new ArgumentNullException(nameof(control.InvokeRequired), "Invoke Required parent object not set to boolean value");
                 }
             }
         }
