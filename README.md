@@ -3,11 +3,11 @@
 For changing a control with an action while evaluating InvokeRequired
 
 ## Include
-```css
+```csharp
 using FormControlInvoke;
 ```
 
 ## Usage
-```css
+```csharp
 fc.InvokeControlAction(new Action() => fc.Text = "New Text" );
 ```
